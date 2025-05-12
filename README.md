@@ -1,1 +1,1 @@
-![Output Image](dictionary.jpg)
+![Output Image](dictionary.png)
